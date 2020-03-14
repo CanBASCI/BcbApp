@@ -1,0 +1,18 @@
+{
+  "Kestrel": {
+    "EndPoints": {
+      "Http": {
+        "Url": "http://localhost:44353"
+      }
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "Host": {
+    "Port": 44353
+  }
+
+}

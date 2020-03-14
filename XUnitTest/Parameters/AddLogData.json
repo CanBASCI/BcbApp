@@ -1,0 +1,5 @@
+{
+  "object": "{\"Id\":4,\"ProductName\":\"Shirt\",\"ProductType\":1,\"Description\":\"Deneme\",\"Status\":\"A\"}\"",
+  "transactionType": 100,
+  "exception": "An error occurred while updating the entries. See the inner exception for details.Violation of PRIMARY KEY constraint 'PK__Products__3214EC07EB3372CB'."
+}
